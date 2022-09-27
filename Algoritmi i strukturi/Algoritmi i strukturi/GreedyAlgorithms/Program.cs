@@ -8,6 +8,8 @@ namespace GreedyAlgorithms
     {
         static void Main(string[] args)
         {
+            Greedy.Egyption();
+            
             /*Искаме една колекция от числа да я подредим 
               по възходящ ред от най-голямо към най малко число.
            С всяка стъпка ще се доближавам до решението. 
